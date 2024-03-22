@@ -1,0 +1,6 @@
+C:\Users\spg26\Desktop\TrabalhoPoo1\TrabalhoPoo1\bin\Debug\TrabalhoPoo1.exe
+C:\Users\spg26\Desktop\TrabalhoPoo1\TrabalhoPoo1\bin\Debug\TrabalhoPoo1.pdb
+C:\Users\spg26\Desktop\TrabalhoPoo1\TrabalhoPoo1\obj\Debug\TrabalhoPoo1.csproj.AssemblyReference.cache
+C:\Users\spg26\Desktop\TrabalhoPoo1\TrabalhoPoo1\obj\Debug\TrabalhoPoo1.csproj.CoreCompileInputs.cache
+C:\Users\spg26\Desktop\TrabalhoPoo1\TrabalhoPoo1\obj\Debug\TrabalhoPoo1.exe
+C:\Users\spg26\Desktop\TrabalhoPoo1\TrabalhoPoo1\obj\Debug\TrabalhoPoo1.pdb
